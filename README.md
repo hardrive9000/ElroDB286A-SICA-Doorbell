@@ -15,6 +15,9 @@ Source code used in the video. Tested with a Wemos D1 Mini board (ESP8266) and c
 
 ### AVR C/RF433_Doorbell
 Source code written 100% in AVR C specially optimized for ATtiny13A. It occupies only 280 bytes (27.34%). Recommended code for production use. In the Release folder you will find the hex file ready to burn.
+ATtiny13A Fuses (Int. RC Osc. 9.6MHz)
+L: 0x7A
+H: 0xFF
 
 ## Videotutorial
 
